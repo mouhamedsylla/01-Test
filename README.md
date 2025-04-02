@@ -75,22 +75,3 @@ For Dart exercises:
    ```
 
 The utility will mount your local Dart file to the appropriate location in the Docker container.
-
-## Features
-
-- Automatic Docker image pulling if the required image doesn't exist locally
-- Progress indication during image download
-- Clear success/failure messages
-
-## Troubleshooting
-
-If you encounter issues:
-
-- Make sure Docker is running
-- Verify that your exercise files are in the correct location
-- Ensure your exercise files have the correct name format
-- Check that you have sufficient permissions to run Docker commands
-
-## License
-
-This utility is provided as-is under the terms specified by 01Edu.
